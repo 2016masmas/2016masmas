@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2016masmas
 - 👀 I’m interested in GNC robotic
-- 🌱 I’m currently learning aerospace
+- 🌱 I’m currently learning machine learning and data science
 - 💞️ I’m looking to collaborate on gnc ai
 - 📫 How to reach me @2016masmas
 
